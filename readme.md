@@ -14,8 +14,12 @@ Este proyecto utiliza Selenium y Pytest para realizar pruebas automatizadas en l
 
 1. Clona este repositorio.
 2. Instala las dependencias:
-3. el repositorio tiene un entorno python virtual en caso de no tener python en su consola nativa
+ -pip install pytest
+ -pip install selenium-webdriver
+ -pip install pytest-html
 
+3. el repositorio tiene un entorno python virtual en caso de no tener python en su consola nativa
+(en caso de que quiera ejecutar el entorno virtual)
 $ source venv/bin/activate
 
 
